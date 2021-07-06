@@ -36,6 +36,13 @@ body {
   font-style: oblique;
 }
 
+#context {
+  font-size: 2rem;
+  /* font-weight: 200; */
+  font-style: italic;
+  color: rgba(245, 204, 117, 0.818);
+}
+
 .button-container {
   margin-top: 10px;
   display: flex;
